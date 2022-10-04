@@ -27,7 +27,7 @@
 
 - 데이터 분석 및 비지도 학습 과정
 
-![3d scatter](https://user-images.githubusercontent.com/70729822/193865852-7a86bd27-3f13-4be5-bc80-6a2d02c074c8.png)(https://chart-studio.plotly.com/~9haeng/1.embed)
+[![3d scatter](https://user-images.githubusercontent.com/70729822/193865852-7a86bd27-3f13-4be5-bc80-6a2d02c074c8.png)](https://chart-studio.plotly.com/~9haeng/1.embed)
 
 상호작용하는 3D 그래프를 클릭해 직접 확인해보세요
 ----
