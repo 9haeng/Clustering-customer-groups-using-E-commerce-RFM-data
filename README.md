@@ -27,9 +27,10 @@
 
 - 데이터 분석 및 비지도 학습 과정
 
-[![3d scatter](https://user-images.githubusercontent.com/70729822/193865852-7a86bd27-3f13-4be5-bc80-6a2d02c074c8.png)](https://chart-studio.plotly.com/~9haeng/1.embed)
 
 [![ezgif-5-b5f53af565](https://user-images.githubusercontent.com/70729822/193863727-fccdd6c3-2b7b-4b32-99e5-94534aed9d26.gif)](https://chart-studio.plotly.com/~9haeng/1.embed)
+
+위 gif 파일을 클릭하면 직접 상호작용하는 그래프를 확인해 보실 수 있습니다.
 
 ----
 
