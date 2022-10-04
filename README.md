@@ -26,6 +26,7 @@
 ![image](https://user-images.githubusercontent.com/70729822/193862896-552b129a-456f-45a3-be9f-f1eb1733b7c9.png)
 
 - 데이터 분석 및 비지도 학습 과정
+----
 
 ![image](https://user-images.githubusercontent.com/70729822/193863920-de7f9ee9-5c3a-47fb-a669-527e5f2e66e8.png)
 - 학습 결과를 바탕으로 가상의 의사결정 해보기
