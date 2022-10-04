@@ -1,6 +1,6 @@
 # Clustering customer groups using E-commerce RFM data
 -----
-![ezgif-5-b5f53af565]([https://user-images.githubusercontent.com/70729822/193863727-fccdd6c3-2b7b-4b32-99e5-94534aed9d26.gif](https://chart-studio.plotly.com/~9haeng/1.embed)
+![ezgif-5-b5f53af565](https://user-images.githubusercontent.com/70729822/193863727-fccdd6c3-2b7b-4b32-99e5-94534aed9d26.gif)
 
 [지난 프로젝트](https://github.com/9haeng/E-Commerce-Data-Analysis)에서 생성한 고객의 RFM 데이터에 비지도 학습을 적용시켜 고객군을 분류하는 프로젝트를 진행해 보았습니다.
 
@@ -27,7 +27,7 @@
 
 - 데이터 분석 및 비지도 학습 과정
 
-![ezgif-5-b5f53af565]([https://user-images.githubusercontent.com/70729822/193863727-fccdd6c3-2b7b-4b32-99e5-94534aed9d26.gif](https://chart-studio.plotly.com/~9haeng/1.embed)
+![3d scatter](https://user-images.githubusercontent.com/70729822/193865852-7a86bd27-3f13-4be5-bc80-6a2d02c074c8.png)(https://chart-studio.plotly.com/~9haeng/1.embed)
 
 상호작용하는 3D 그래프를 클릭해 직접 확인해보세요
 ----
